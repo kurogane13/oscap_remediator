@@ -38,7 +38,7 @@ This script automates the process of checking the OS version, installing necessa
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/yourusername/oscap-assessment-script.git
+   git clone https://github.com/kurogane13/oscap_remediator.git
    cd oscap-assessment-script
    chmod +x oscap_assessment.sh
    sudo ./oscap_assessment.sh
